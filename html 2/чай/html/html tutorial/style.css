@@ -1,0 +1,32 @@
+h1 , h2{
+    text-align: center;
+}
+b{
+    color: red;
+}
+.b1{
+    color: black;
+}
+.p1{
+    background-color: rgb(180, 180, 240);
+    color: red;
+}
+.d1{
+    display: block;
+}
+.d2{
+    display: inline;
+}
+.bl{
+    color: black;
+    display: inline;
+}
+.jo{
+    padding-left: 30px;
+}
+.joo{
+    padding-left: 60px;
+}
+.jooo{
+    padding-left: 90px;
+}

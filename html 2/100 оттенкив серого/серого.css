@@ -1,0 +1,25 @@
+ul{
+    list-style-type: decimal;
+    
+    background-color: rgb(238, 79, 238);
+    padding: 20px 20px 20px 20px;
+    margin-left: 10px;
+}
+
+li{
+    background-color: darkred;
+    margin-top: 10px;
+    padding: 10px 20px;
+    min-width: 20px;
+    max-width: 40px;
+    color: white;
+}
+.wa1{
+    max-width: 60px;
+}
+.wa2{
+    max-width: 30px;
+}
+.wa3{
+    max-width: 50px;
+}

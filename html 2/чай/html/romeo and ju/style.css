@@ -1,0 +1,30 @@
+.s1{
+    text-align: center;
+    color: rgb(80, 38, 158);
+    margin-bottom: 30px;
+}
+.s2 , .s3{
+    color: rgb(100, 100, 175);
+    margin-bottom: 30px;
+}
+.sp{
+    background-color: rgb(230, 227, 227);
+    max-width: 300px;
+    margin-bottom: 30px;
+}
+p{
+    margin-bottom: 30px;
+}
+.s4{
+    color: black;
+}
+.s5{
+    color: crimson;
+}
+.s6{
+    color: blueviolet;
+}
+
+#ps1{
+    background-color: rgb(230, 227, 227);
+}

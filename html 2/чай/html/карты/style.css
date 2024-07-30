@@ -1,0 +1,12 @@
+.vsd{
+    display: inline;
+    background-color: rgb(180, 180, 228);
+    margin-right: 10px;
+}
+#ps1{
+    padding-left: 30px;
+    background-color: rgb(227, 215, 250);
+}
+.fa{
+    color: red;
+}
